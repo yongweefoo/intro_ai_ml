@@ -1,0 +1,111 @@
+Feedback ID,Customer ID,Date,Product Type,Price,Product Rating,Shop Branch,Branch Customer Service Rating,Comments
+1,101,1/5/2024,Mouse,15,4,Tampines,3,Good product
+2,102,2/5/2024,Keyboard,45,5,Jurong East,5,Excellent service
+3,103,3/5/2024,Monitor,200,4,Yishun,2,Could be better
+4,104,4/5/2024,Tablet,300,2,Somerset,3,Not satisfied with the product
+5,105,5/5/2024,Laptop,800,5,Jurong East,5,Very happy with the purchase
+6,106,6/5/2024,Mouse,20,3,Tampines,3,Adequate service
+7,107,7/5/2024,Keyboard,50,4,Yishun,2,Average experience
+8,108,8/5/2024,Monitor,220,3,Somerset,3,Decent quality
+9,109,9/5/2024,Tablet,320,1,Tampines,2,Poor performance
+10,110,10/5/2024,Laptop,850,5,Jurong East,5,Top-notch service
+11,111,11/5/2024,Mouse,18,4,Yishun,3,Satisfactory
+12,112,12/5/2024,Keyboard,47,5,Jurong East,5,Great service and product
+13,113,13/5/2024,Monitor,210,4,Somerset,3,Good value for money
+14,114,14/5/2024,Tablet,310,2,Yishun,2,Not up to the mark
+15,115,15/5/2024,Laptop,820,5,Jurong East,5,Highly recommend
+16,116,16/5/2024,Mouse,22,4,Somerset,3,Smooth operation
+17,117,17/5/2024,Keyboard,53,4,Yishun,2,Okay product
+18,118,18/5/2024,Monitor,230,3,Tampines,2,Expected better quality
+19,119,19/5/2024,Tablet,330,1,Somerset,2,Disappointed
+20,120,20/5/2024,Laptop,870,5,Jurong East,5,Best purchase ever
+21,121,1/5/2024,Mouse,19,3,Tampines,3,Not bad
+22,122,2/5/2024,Keyboard,48,5,Jurong East,5,Fantastic service
+23,123,3/5/2024,Monitor,215,4,Yishun,2,Good performance
+24,124,4/5/2024,Tablet,315,2,Somerset,3,Unsatisfactory
+25,125,5/5/2024,Laptop,830,5,Jurong East,5,Very pleased
+26,126,6/5/2024,Mouse,16,3,Tampines,3,Okay quality
+27,127,7/5/2024,Keyboard,46,4,Yishun,2,Satisfactory
+28,128,8/5/2024,Monitor,205,3,Somerset,3,Could be better
+29,129,9/5/2024,Tablet,305,1,Tampines,2,Not happy with it
+30,130,10/5/2024,Laptop,810,5,Jurong East,5,Outstanding
+31,131,11/5/2024,Mouse,21,4,Yishun,3,Works well
+32,132,12/5/2024,Keyboard,51,5,Jurong East,5,Highly satisfied
+33,133,13/5/2024,Monitor,225,4,Somerset,3,Good for the price
+34,134,14/5/2024,Tablet,325,2,Yishun,2,Expected more
+35,135,15/5/2024,Laptop,860,5,Jurong East,5,Excellent purchase
+36,136,16/5/2024,Mouse,17,4,Somerset,3,Very smooth
+37,137,17/5/2024,Keyboard,49,4,Yishun,2,Adequate
+38,138,18/5/2024,Monitor,212,3,Tampines,2,Just okay
+39,139,19/5/2024,Tablet,312,1,Somerset,2,Not worth it
+40,140,20/5/2024,Laptop,825,5,Jurong East,5,Highly recommend
+41,141,4/5/2024,Mouse,14,4,Tampines,3,Works fine
+42,142,5/5/2024,Keyboard,44,5,Jurong East,5,Great experience
+43,143,11/5/2024,Monitor,202,3,Yishun,2,Could be better
+44,144,12/5/2024,Tablet,302,2,Somerset,3,Disappointed
+45,145,18/5/2024,Laptop,802,5,Jurong East,5,Very happy
+46,146,19/5/2024,Mouse,23,4,Tampines,3,Good quality
+47,147,25/5/2024,Keyboard,54,5,Jurong East,5,Excellent service
+48,148,26/5/2024,Monitor,232,3,Yishun,2,Not as expected
+49,149,1/6/2024,Tablet,332,1,Somerset,2,Poor performance
+50,150,2/6/2024,Laptop,872,5,Jurong East,5,Fantastic
+51,151,8/6/2024,Mouse,20,3,Tampines,3,Average
+52,152,9/6/2024,Keyboard,50,4,Jurong East,5,Very good
+53,153,15/6/2024,Monitor,220,4,Yishun,2,Satisfactory
+54,154,16/6/2024,Tablet,320,2,Somerset,3,Not great
+55,155,22/6/2024,Laptop,850,5,Jurong East,5,Highly recommend
+56,156,23/6/2024,Mouse,18,3,Tampines,3,Okay product
+57,157,29/6/2024,Keyboard,47,4,Yishun,2,Could be better
+58,158,30/6/2024,Monitor,210,4,Somerset,3,Good value
+59,159,6/7/2024,Tablet,310,1,Tampines,2,Very poor
+60,160,7/7/2024,Laptop,820,5,Jurong East,5,Excellent
+61,161,3/6/2024,Mouse,16,3,Tampines,3,Decent product
+62,162,4/6/2024,Keyboard,46,5,Jurong East,5,Excellent experience
+63,163,5/6/2024,Monitor,205,4,Yishun,2,Good quality
+64,164,6/6/2024,Tablet,305,2,Somerset,3,Not satisfied
+65,165,7/6/2024,Laptop,810,5,Jurong East,5,Very pleased
+66,166,10/6/2024,Mouse,22,3,Tampines,3,Average
+67,167,11/6/2024,Keyboard,53,5,Jurong East,5,Fantastic service
+68,168,12/6/2024,Monitor,230,4,Yishun,2,Decent
+69,169,13/6/2024,Tablet,330,2,Somerset,3,Expected more
+70,170,14/6/2024,Laptop,870,5,Jurong East,5,Highly recommend
+71,171,17/6/2024,Mouse,19,4,Tampines,3,Good product
+72,172,18/6/2024,Keyboard,48,5,Jurong East,5,Excellent quality
+73,173,19/6/2024,Monitor,215,4,Yishun,2,Satisfactory
+74,174,20/6/2024,Tablet,315,1,Somerset,2,Very poor
+75,175,21/6/2024,Laptop,830,5,Jurong East,5,Outstanding
+76,176,24/6/2024,Mouse,21,3,Tampines,3,Just okay
+77,177,25/6/2024,Keyboard,51,4,Yishun,2,Adequate
+78,178,26/6/2024,Monitor,225,3,Somerset,3,Could be better
+79,179,27/6/2024,Tablet,325,2,Tampines,2,Poor performance
+80,180,28/6/2024,Laptop,860,5,Jurong East,5,Great purchase
+81,181,1/5/2024,Mouse,17,3,Tampines,3,Works well
+82,182,2/5/2024,Keyboard,49,5,Jurong East,5,Excellent service
+83,183,3/5/2024,Monitor,212,4,Yishun,2,Good performance
+84,184,4/5/2024,Tablet,312,2,Somerset,3,Not happy with the product
+85,185,5/5/2024,Laptop,825,5,Jurong East,5,Very satisfied
+86,186,6/5/2024,Mouse,15,3,Tampines,3,Adequate
+87,187,7/5/2024,Keyboard,45,5,Jurong East,5,Fantastic experience
+88,188,8/5/2024,Monitor,200,4,Yishun,2,Average
+89,189,9/5/2024,Tablet,300,1,Somerset,2,Poor quality
+90,190,10/5/2024,Laptop,800,5,Jurong East,5,Outstanding purchase
+91,191,11/5/2024,Mouse,16,4,Yishun,3,Good product
+92,192,12/5/2024,Keyboard,42,5,Jurong East,5,Great service
+93,193,13/5/2024,Monitor,190,4,Somerset,3,Good value
+94,194,14/5/2024,Tablet,280,2,Yishun,2,Disappointed
+95,195,15/5/2024,Laptop,750,5,Jurong East,5,Highly recommend
+96,196,6/5/2024,Mouse,18,3,Somerset,3,Just okay
+97,197,7/5/2024,Keyboard,45,4,Yishun,2,Could be better
+98,198,8/5/2024,Monitor,195,3,Tampines,2,Not as expected
+99,199,9/5/2024,Tablet,285,2,Somerset,2,Poor performance
+100,200,10/5/2024,Laptop,780,5,Jurong East,5,Excellent purchase
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
